@@ -26,4 +26,4 @@
 导出文件：
 
 <img src="https://github.com/wangyunling32/DuplicateCheckingAndAnalysisPlatform/blob/master/img-folder/out.png" width="200" height="300"/>
-<img src="https://github.com/wangyunling32/DuplicateCheckingAndAnalysisPlatform/blob/master/img-folder/success.png" width="500" height="300"/>
+<img src="https://github.com/wangyunling32/DuplicateCheckingAndAnalysisPlatform/blob/master/img-folder/success.png" width="200" height="200"/>
